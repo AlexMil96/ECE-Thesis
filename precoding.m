@@ -6,9 +6,6 @@ function P=precoding(Pt)
 % thero antenna ports 
 %p=4;
 
-%https://www.etsi.org/deliver/etsi_ts/136200_136299/136211/11.01.00_60/ts_136211v110100p.pdf
-%sel 62
-
 Nt=4;
 Nr=2;
 
